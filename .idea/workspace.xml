@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61fde487-1c23-4d52-be3a-da6693e48538" name="Changes" comment="ColumnScreen">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/BoxScreen.kt" afterDir="false" />
+    <list default="true" id="61fde487-1c23-4d52-be3a-da6693e48538" name="Changes" comment="String">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/app/FundamentalsApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/app/FundamentalsApp.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685051587788</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="BoxScreen">
+      <created>1685051702223</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685051702223</updated>
+    </task>
+    <task id="LOCAL-00006" summary="String">
+      <created>1685051877867</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685051877867</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +100,8 @@
     <MESSAGE value="ScaffoldScreen" />
     <MESSAGE value="SurfaceScreen" />
     <MESSAGE value="ColumnScreen" />
-    <option name="LAST_COMMIT_MESSAGE" value="ColumnScreen" />
+    <MESSAGE value="BoxScreen" />
+    <MESSAGE value="String" />
+    <option name="LAST_COMMIT_MESSAGE" value="String" />
   </component>
 </project>
