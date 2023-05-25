@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61fde487-1c23-4d52-be3a-da6693e48538" name="Changes" comment="String">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/ScrollingScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="61fde487-1c23-4d52-be3a-da6693e48538" name="Changes" comment="ListScreen">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/app/FundamentalsApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/app/FundamentalsApp.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685051877867</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ScrollingScreen">
+      <created>1685054147839</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685054147839</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ListScreen">
+      <created>1685054236093</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685054236093</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +129,8 @@
     <MESSAGE value="ColumnScreen" />
     <MESSAGE value="BoxScreen" />
     <MESSAGE value="String" />
-    <option name="LAST_COMMIT_MESSAGE" value="String" />
+    <MESSAGE value="ScrollingScreen" />
+    <MESSAGE value="ListScreen" />
+    <option name="LAST_COMMIT_MESSAGE" value="ListScreen" />
   </component>
 </project>
